@@ -1,0 +1,14 @@
+{
+  "name": "Star Dodge Mobile",
+  "short_name": "Star Dodge",
+  "description": "A small mobile web game made with HTML5 Canvas.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
